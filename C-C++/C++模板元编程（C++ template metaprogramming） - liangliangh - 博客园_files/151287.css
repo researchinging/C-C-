@@ -1,0 +1,29 @@
+.postText
+{
+color: #000000;
+font-family: "微软雅黑";
+}
+.code-cpp
+{
+background: #f9f9f9;
+border: #a0a0a0 1px solid;
+border-left: #6ce26c 4px solid;
+padding: 5px;
+padding-left: 8px;
+margin: 2px 0 2px 0;
+line-height: 125%;
+font-family: "Consolas", "微软雅黑";
+font-size: 100%;
+}
+.console-cpp
+{
+background: #ffffff;
+border: #a0a0a0 1px solid;
+border-left: #990000 4px solid;
+padding: 5px;
+padding-left: 8px;
+margin: 2px 0 2px 0;
+line-height: 125%;
+font-family: "Consolas", "微软雅黑";
+font-size: 100%;
+}
